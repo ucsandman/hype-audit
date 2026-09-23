@@ -34,6 +34,7 @@ One audit per week, every Wednesday, in `audits/` as `YYYY-MM-DD-slug.md`. Each 
 
 | Date | Claim | Verdict |
 | ---- | ----- | ------- |
+| 2026-09-23 | Musk: Grok 4.7 "will exceed all current models" | Overstated |
 | 2026-09-16 | OpenAI's Greg Brockman: "Welcome to the AGI era" for GPT-6 Astra | Overstated |
 | 2026-09-15 | Factory: "software factories that serve as the core foundation from which an entire software company operates" | Overstated |
 | 2026-09-10 | Survey cluster: "AI writes X% of our code" (Dunstan: 75% of new code at Google) | Unverifiable |
