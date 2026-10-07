@@ -34,6 +34,7 @@ One audit per week, every Wednesday, in `audits/` as `YYYY-MM-DD-slug.md`. Each 
 
 | Date | Claim | Verdict |
 | ---- | ----- | ------- |
+| 2026-10-07 | Mistral: Large 4 "narrows the gap" with the best models, "among the world's best open models" | Mostly true |
 | 2026-09-30 | OpenAI: GPT-6.1 Sol "nearly matches GPT-6 Astra's intelligence" at one-fifth the price | Mostly true |
 | 2026-09-23 | Musk: Grok 4.7 "will exceed all current models" | Overstated |
 | 2026-09-16 | OpenAI's Greg Brockman: "Welcome to the AGI era" for GPT-6 Astra | Overstated |
