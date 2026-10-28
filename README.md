@@ -34,6 +34,7 @@ One audit per week, every Wednesday, in `audits/` as `YYYY-MM-DD-slug.md`. Each 
 
 | Date | Claim | Verdict |
 | ---- | ----- | ------- |
+| 2026-10-28 | OpenAI: an internal system "proved that the ETH is false" and the result "was subsequently verified in Lean" | Unverifiable |
 | 2026-10-21 | DeepSeek: V4.1-Flash-1017 is "a Pareto improvement in performance and cost" over its predecessor | Mostly true |
 | 2026-10-14 | Meta: Muse Wonder "state of the art performance for personal and professional agentic work" | Overstated |
 | 2026-10-07 | Mistral: Large 4 "narrows the gap" with the best models, "among the world's best open models" | Mostly true |
