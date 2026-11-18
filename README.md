@@ -34,6 +34,7 @@ One audit per week, every Wednesday, in `audits/` as `YYYY-MM-DD-slug.md`. Each 
 
 | Date | Claim | Verdict |
 | ---- | ----- | ------- |
+| 2026-11-18 | Isomorphic Labs: "positive preclinical results" and a $5B Series C with no drug in humans yet | Overstated |
 | 2026-11-11 | Ricursive: Ripple-65B Preview "U.S. open-weight SOTA on agentic coding" at 80.52 on TerminalBench 2.1 | Overstated |
 | 2026-11-04 | MIT CSAIL: GPT-6 Astra "natively" reads and writes neural network weights, lifting Qwen MATH-500 from 7.9% to 48.1% | Overstated |
 | 2026-10-28 | OpenAI: an internal system "proved that the ETH is false" and the result "was subsequently verified in Lean" | Unverifiable |
